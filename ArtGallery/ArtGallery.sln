@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtGallery.Plugins", "ArtGallery.Plugins.csproj", "{16E5A598-1428-E1B9-3DB4-0A47E953C7B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtGallery", "ArtGallery.csproj", "{EE522647-80BB-6655-74A0-59F1296D6DEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtGallery.Editor", "ArtGallery.Editor.csproj", "{63DFD6AD-A01E-2CA9-78B8-A64D9EA0C19F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16E5A598-1428-E1B9-3DB4-0A47E953C7B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E5A598-1428-E1B9-3DB4-0A47E953C7B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E5A598-1428-E1B9-3DB4-0A47E953C7B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E5A598-1428-E1B9-3DB4-0A47E953C7B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE522647-80BB-6655-74A0-59F1296D6DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE522647-80BB-6655-74A0-59F1296D6DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE522647-80BB-6655-74A0-59F1296D6DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE522647-80BB-6655-74A0-59F1296D6DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63DFD6AD-A01E-2CA9-78B8-A64D9EA0C19F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63DFD6AD-A01E-2CA9-78B8-A64D9EA0C19F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63DFD6AD-A01E-2CA9-78B8-A64D9EA0C19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63DFD6AD-A01E-2CA9-78B8-A64D9EA0C19F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

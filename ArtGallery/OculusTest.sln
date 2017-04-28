@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OculusTest.Plugins", "OculusTest.Plugins.csproj", "{ED104EC0-3776-E527-D192-30A81FD738A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OculusTest", "OculusTest.csproj", "{03CF48DE-BA52-2CB5-86D5-0EB17C58C882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OculusTest.Editor", "OculusTest.Editor.csproj", "{13A9D94C-EDBB-5B45-3F94-2C616B8182A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED104EC0-3776-E527-D192-30A81FD738A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED104EC0-3776-E527-D192-30A81FD738A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED104EC0-3776-E527-D192-30A81FD738A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED104EC0-3776-E527-D192-30A81FD738A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03CF48DE-BA52-2CB5-86D5-0EB17C58C882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CF48DE-BA52-2CB5-86D5-0EB17C58C882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CF48DE-BA52-2CB5-86D5-0EB17C58C882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CF48DE-BA52-2CB5-86D5-0EB17C58C882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A9D94C-EDBB-5B45-3F94-2C616B8182A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A9D94C-EDBB-5B45-3F94-2C616B8182A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A9D94C-EDBB-5B45-3F94-2C616B8182A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A9D94C-EDBB-5B45-3F94-2C616B8182A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
