@@ -13,8 +13,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 205
-    y: 51
+    x: 0
+    y: 43
     width: 1707
     height: 877
   m_ShowMode: 4
@@ -42,10 +42,10 @@ MonoBehaviour:
     y: 30
     width: 1707
     height: 827
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 683, y: 492}
+  m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 10
+  controlID: 71
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -64,8 +64,8 @@ MonoBehaviour:
     y: 0
     width: 494
     height: 827
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -90,8 +90,8 @@ MonoBehaviour:
     y: 0
     width: 374
     height: 500
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -207,10 +207,10 @@ MonoBehaviour:
     y: 0
     width: 1213
     height: 827
-  m_MinSize: {x: 404, y: 492}
+  m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 11
+  controlID: 72
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -231,10 +231,10 @@ MonoBehaviour:
     y: 0
     width: 1213
     height: 500
-  m_MinSize: {x: 404, y: 221}
-  m_MaxSize: {x: 8004, y: 4021}
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 12
+  controlID: 73
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -385,8 +385,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 205
-    y: 600
+    x: 0
+    y: 592
     width: 1211
     height: 306
   m_SearchFilter:
@@ -400,19 +400,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Materials/pictures
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Materials/pictures
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Imaginarium Admin\Documents\_jessica\Oculus Projects\ArtGalleryVR\ArtGallery
+  m_LastProjectPath: C:\Users\Imaginarium Admin\Documents\Jessica\Projects\Oculus\ArtGalleryVR\ArtGallery
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 195}
-    m_SelectedIDs: e0b30000
-    m_LastClickedID: 46048
-    m_ExpandedIDs: 0000000012270000d629000010340000a23500002e3700000a38000036380000be3800006446000066460000a44600002047000092520000189e000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 75}
+    m_SelectedIDs: fc290000
+    m_LastClickedID: 10748
+    m_ExpandedIDs: 0000000046260000f62700001628000062280000e82800004429000066290000fe290000da2a0000c82f0000ca2f0000cc2f0000ce2f0000d02f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -440,7 +440,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000012270000d629000028300000a23500002e370000dc3700000a380000be3800006446000066460000a446000020470000
+    m_ExpandedIDs: 0000000046260000f62700001628000062280000e82800004429000066290000fe290000da2a0000c82f0000ca2f0000cc2f0000ce2f0000d02f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -517,8 +517,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1420
-    y: 100
+    x: 1215
+    y: 92
     width: 492
     height: 806
   m_ScrollPosition: {x: 0, y: 0}
@@ -550,15 +550,15 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 205
-    y: 100
+    x: 0
+    y: 92
     width: 372
     height: 479
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: fae9fdff
-    m_LastClickedID: -136710
-    m_ExpandedIDs: 1ed8fdffc8dbfdff18eefdff3a52feffe2fbffff00000000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: dcfefdffa0fffdff1c01feffc610feff5011feffcc12feff6052feff2453feffa054feff8c56feff1657fefff058feff06faffff1cfaffff20faffff6efaffffbcfafffff0faffff72fbffffd8fbffff00000000c62b0000ea2b00006e2c0000e42c0000a02d0000609d00009c9d0000269e0000329e0000e49e00005a9f0000b69f000008a0000072a00000c8a0000042c70000ccc700005ec8000000c90000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -603,19 +603,19 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 581
-    y: 100
+    x: 376
+    y: 92
     width: 835
     height: 479
   m_SceneLighting: 1
-  lastFramingTime: 3855.2825651331837
+  lastFramingTime: 3089.985245364196
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.043518066, y: 0.6586914, z: 4.782715}
+    m_Target: {x: -0.30848655, y: 0.6578212, z: 0.2068542}
     speed: 2
-    m_Value: {x: 0.043518066, y: 0.6586914, z: 4.782715}
+    m_Value: {x: -0.30848655, y: 0.6578212, z: 0.2068542}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -630,21 +630,21 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
     yGrid:
-      m_Target: 1
+      m_Target: 0
       speed: 2
-      m_Value: 1
+      m_Value: 0
     zGrid:
       m_Target: 0
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.38041487, y: -0.14474799, z: 0.06041782, w: 0.91143435}
+    m_Target: {x: 0.07308274, y: -0.32591355, z: 0.025256885, w: 0.94225657}
     speed: 2
-    m_Value: {x: 0.38040912, y: -0.1447458, z: 0.060416903, w: 0.9114205}
+    m_Value: {x: 0.073081054, y: -0.32590604, z: 0.025256304, w: 0.9422349}
   m_Size:
-    m_Target: 6.52915
+    m_Target: 2.566556
     speed: 2
-    m_Value: 6.52915
+    m_Value: 2.566556
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -677,8 +677,8 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 581
-    y: 100
+    x: 376
+    y: 92
     width: 835
     height: 479
   m_MaximizeOnPlay: 0
@@ -753,7 +753,7 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 213
-    y: 600
+    x: 0
+    y: 592
     width: 1211
     height: 306

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtGallery.Plugins", "ArtGallery.Plugins.csproj", "{16E5A598-1428-E1B9-3DB4-0A47E953C7B1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtGallery", "ArtGallery.csproj", "{EE522647-80BB-6655-74A0-59F1296D6DEC}"

@@ -228,8 +228,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1713693995799014}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.152, z: 0}
-  m_LocalScale: {x: 0.26380652, y: 0.057618804, z: 0.26380652}
+  m_LocalPosition: {x: 0, y: 0.139, z: 0}
+  m_LocalScale: {x: 0.26380652, y: 0.06533359, z: 0.26380652}
   m_Children: []
   m_Father: {fileID: 4625075610885938}
   m_RootOrder: 0
@@ -241,7 +241,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1980180550087430}
   m_LocalRotation: {x: -0.5, y: -0.5, z: 0.5, w: 0.5}
-  m_LocalPosition: {x: -3.928, y: -0.208, z: -0.1794}
+  m_LocalPosition: {x: -1.413, y: -0.20799994, z: -0.17939997}
   m_LocalScale: {x: 0.40868145, y: 0.40868145, z: 0.40868145}
   m_Children:
   - {fileID: 4528504344668958}
@@ -270,7 +270,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1359276159024830}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.0015985959, y: 0.051, z: 0.004999637}
+  m_LocalPosition: {x: 0.0015985959, y: 0.031, z: 0.004999637}
   m_LocalScale: {x: 0.19999997, y: 0.10000001, z: 0.19999997}
   m_Children: []
   m_Father: {fileID: 4625075610885938}
@@ -678,9 +678,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   on: 0
-  timeLower: 0.25
-  timeUpper: 0.5
-  distance: 0.05
+  timeLower: 0.2
+  timeUpper: 0.65
+  distance: 0.07
   distanceTrigger: 0
   OHCscript: {fileID: 0}
   switchButton: {fileID: 1359276159024830}
