@@ -1,6 +1,6 @@
-#VR Art Gallery
+# VR Art Gallery
 ![screenshot](http://imgur.com/XZK8S8T "Screenshot of project")
-##Description
+## Description
 A simple virtual reality gallery exhibitting artwork and music created by students at Santa Clara University. Runs with Oculus Rift.
 
 ## Built With
