@@ -20,10 +20,13 @@ public class NetworkPlayer : Photon.MonoBehaviour {
             playerGlobal = GameObject.Find("OVRPlayerController").transform;
             playerLocal = playerGlobal.Find("OVRCameraRig/TrackingSpace/CenterEyeAnchor");
 
+			//attached networked player to the OVR camera rig
             this.transform.SetParent(playerLocal);
+			//makes games object stay in the same position as center eye anchor
             this.transform.localPosition = Vector3.zero;
 
-            // avatar.SetActive(false);
+			//want to hide avatar for ourselves (unless 3rd person mode)
+            //avatar.SetActive(false);
         }
         
     }
