@@ -4,8 +4,8 @@ Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
     Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
     Vendor:   NVIDIA
-    VRAM:     6100 MB
-    Driver:   21.21.13.6959
+    VRAM:     6101 MB
+    Driver:   21.21.13.7689
 Begin MonoManager ReloadAssembly
 Platform assembly: C:\Users\Imaginarium Admin\Documents\_jessica\Oculus Projects\ArtGalleryVR\ArtGallery\output\test4_Data\Managed\UnityEngine.dll (this message is harmless)
 Loading C:\Users\Imaginarium Admin\Documents\_jessica\Oculus Projects\ArtGalleryVR\ArtGallery\output\test4_Data\Managed\UnityEngine.dll into Unity Child Domain
@@ -23,7 +23,7 @@ Platform assembly: C:\Users\Imaginarium Admin\Documents\_jessica\Oculus Projects
 Loading C:\Users\Imaginarium Admin\Documents\_jessica\Oculus Projects\ArtGalleryVR\ArtGallery\output\test4_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
 Platform assembly: C:\Users\Imaginarium Admin\Documents\_jessica\Oculus Projects\ArtGalleryVR\ArtGallery\output\test4_Data\Managed\Parse.Unity.dll (this message is harmless)
 Loading C:\Users\Imaginarium Admin\Documents\_jessica\Oculus Projects\ArtGalleryVR\ArtGallery\output\test4_Data\Managed\Parse.Unity.dll into Unity Child Domain
-- Completed reload, in  0.036 seconds
+- Completed reload, in  0.051 seconds
 Platform assembly: C:\Users\Imaginarium Admin\Documents\_jessica\Oculus Projects\ArtGalleryVR\ArtGallery\output\test4_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Imaginarium Admin\Documents\_jessica\Oculus Projects\ArtGalleryVR\ArtGallery\output\test4_Data\Managed\System.dll (this message is harmless)
 OnLevelWasLoaded was found on OVRHarness
@@ -52,8 +52,8 @@ The referenced script on this Behaviour (Game Object 'Button') is missing!
  
 (Filename:  Line: 1743)
 
-UnloadTime: 1.565537 ms
-Unity v5.6.0f3, Oculus Utilities v1.12.0, OVRPlugin v1.12.0, SDK v1.15.0.
+UnloadTime: 4.308972 ms
+Unity v5.6.0f3, Oculus Utilities v1.12.0, OVRPlugin v1.12.0, SDK v1.16.0.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -62,7 +62,7 @@ No Oculus Rift App ID has been provided. Go to Oculus Avatar > Edit Configuratio
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 3b54 -> priority: 1 
-  Thread -> id: 1a84 -> priority: 1 
-  Thread -> id: 4460 -> priority: 1 
-  Thread -> id: 2d1c -> priority: 1 
+  Thread -> id: 4d34 -> priority: 1 
+  Thread -> id: 9d4 -> priority: 1 
+  Thread -> id: 3d6c -> priority: 1 
+  Thread -> id: 4a2c -> priority: 1 
