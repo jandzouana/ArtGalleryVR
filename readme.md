@@ -3,7 +3,7 @@
 ## Description
 This is my personal art gallery featuring various artwork I have created over the past year. There is also an area exhibitting my animation.
 
-## Link to Video
+## Link to Video (WIP)
 https://youtu.be/bjT58-FCeXI
 
 # Student VR Art Gallery
