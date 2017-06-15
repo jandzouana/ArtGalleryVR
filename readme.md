@@ -1,5 +1,5 @@
 # VR Art Gallery
-![screenshot] (http://i.imgur.com/R5XdN6H.png "Screenshot of project")
+![screenshot](http://i.imgur.com/R5XdN6H.png "Screenshot of project")
 ## Description
 This is my personal art gallery featuring various artwork I have created over the past year. There is also an area exhibitting my animation.
 
